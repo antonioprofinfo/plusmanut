@@ -1,4 +1,4 @@
-package pos.maismanut.rest;
+package pos.plusmanut.rest;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.server.ResponseStatusException;
-import pos.maismanut.rest.exception.ApiErrors;
+import pos.plusmanut.rest.exception.ApiErrors;
 
 import java.util.List;
 import java.util.stream.Collectors;

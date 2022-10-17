@@ -1,4 +1,4 @@
-package pos.maismanut.model.entity;
+package pos.plusmanut.model.entity;
 
 import lombok.Data;
 

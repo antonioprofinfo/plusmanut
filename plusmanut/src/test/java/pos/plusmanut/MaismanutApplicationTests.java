@@ -1,4 +1,4 @@
-package pos.maismanut;
+package pos.plusmanut;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

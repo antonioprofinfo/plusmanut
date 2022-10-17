@@ -1,4 +1,4 @@
-package pos.maismanut.Config;
+package pos.plusmanut.Config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;

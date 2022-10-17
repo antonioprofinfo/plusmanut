@@ -1,12 +1,12 @@
-package pos.maismanut.rest;
+package pos.plusmanut.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
-import pos.maismanut.model.entity.Cliente;
-import pos.maismanut.model.repository.ClienteRepository;
+import pos.plusmanut.model.entity.Cliente;
+import pos.plusmanut.model.repository.ClienteRepository;
 
 import javax.validation.Valid;
 @Controller

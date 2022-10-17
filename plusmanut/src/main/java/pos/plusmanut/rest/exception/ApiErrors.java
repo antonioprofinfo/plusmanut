@@ -1,4 +1,4 @@
-package pos.maismanut.rest.exception;
+package pos.plusmanut.rest.exception;
 
 import java.util.Arrays;
 import java.util.List;

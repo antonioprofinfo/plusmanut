@@ -1,13 +1,8 @@
-package pos.maismanut;
+package pos.plusmanut;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RestController;
-import pos.maismanut.model.entity.Cliente;
-import pos.maismanut.model.repository.ClienteRepository;
 
 
 @RestController

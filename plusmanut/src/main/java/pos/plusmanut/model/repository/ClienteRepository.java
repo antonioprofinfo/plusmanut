@@ -1,7 +1,7 @@
-package pos.maismanut.model.repository;
+package pos.plusmanut.model.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import pos.maismanut.model.entity.Cliente;
+import pos.plusmanut.model.entity.Cliente;
 
 public interface ClienteRepository extends JpaRepository<Cliente, Integer> {
 }

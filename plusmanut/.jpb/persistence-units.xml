@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="pos.maismanut" />
+          <package value="pos.plusmanut" />
         </packages>
       </persistence-unit>
     </persistence-units>
